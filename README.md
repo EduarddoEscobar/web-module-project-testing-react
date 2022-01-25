@@ -47,11 +47,11 @@ Get the project fired up and start using it as a user would. Try to go through t
 
 ### The Display Component
 > *This component holds the state values of the application and handles api calls. In this component's tests, you work with mocking external modules and working with async / await / waitFor*
-* [ ] Test that the Display component renders without any passed in props.
-* [ ] Rebuild or copy the show test data element as used in the previous set of tests.
-* [ ] Test that when the fetch button is pressed, the show component will display. Make sure to account for the api call and change of state in building your test.
-* [ ] Test that when the fetch button is pressed, the amount of select options rendered is equal to the amount of seasons in your test data.
-* [ ] Notice the optional functional prop passed in to the Display component client code. Test that when the fetch button is pressed, this function is called.
+* [x] Test that the Display component renders without any passed in props.
+* [x] Rebuild or copy the show test data element as used in the previous set of tests.
+* [x] Test that when the fetch button is pressed, the show component will display. Make sure to account for the api call and change of state in building your test.
+* [x] Test that when the fetch button is pressed, the amount of select options rendered is equal to the amount of seasons in your test data.
+* [x] Notice the optional functional prop passed in to the Display component client code. Test that when the fetch button is pressed, this function is called.
 
 ### Stretch goals
 - Add in a testing suite for the episodes component.
@@ -61,8 +61,8 @@ Get the project fired up and start using it as a user would. Try to go through t
 - Add React Router, and add the functionality to click an episode and navigate to an episode page.
 
 ### Submission Format
-- [ ] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
-- [ ] Connect your fork to Codegrade using the "Connect Git" button.
-- [ ] Find your newly created fork from the list and push your work to main.
-- [ ] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+- [x] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
+- [x] Connect your fork to Codegrade using the "Connect Git" button.
+- [x] Find your newly created fork from the list and push your work to main.
+- [x] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
 
